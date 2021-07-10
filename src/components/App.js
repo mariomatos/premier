@@ -9,4 +9,5 @@ fullName = first + ' ' + last;
 
 
 
-console.log(fullName);
+console.log(fullName + ' Gets this');
+
